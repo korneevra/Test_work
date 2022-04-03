@@ -1,0 +1,15 @@
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\Test_work.exe
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\Test_work.deps.json
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\Test_work.runtimeconfig.json
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\Test_work.dll
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\ref\Test_work.dll
+D:\Роман\Geek Univercity\Test_work\bin\Debug\net6.0\Test_work.pdb
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.csproj.AssemblyReference.cache
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.AssemblyInfoInputs.cache
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.AssemblyInfo.cs
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.csproj.CoreCompileInputs.cache
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.dll
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\ref\Test_work.dll
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.pdb
+D:\Роман\Geek Univercity\Test_work\obj\Debug\net6.0\Test_work.genruntimeconfig.cache
